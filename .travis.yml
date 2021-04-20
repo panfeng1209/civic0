@@ -32,6 +32,4 @@ script:
 branches:
   only:
     - master
-# env:
-#  global:
-#    - GH_REF: github.com/87591/increase.git
+
